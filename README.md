@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Vignesh 👋
+**Aspiring MERN Stack Developer** | Interested in creating Full-Stack Projects with Node.js, Express, React & MongoDB
 
-<!--
-**vigneshm1005/vigneshm1005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** Node.js, Express.js, REST APIs
+- **Database:** MongoDB, Mongoose
+- **Tools:** Git, GitHub, Postman, VS Code
 
-Here are some ideas to get you started:
+## Projects
+- [Basic Task Manager CRUD](https://github.com/vigneshm1005/Basic-Task-Manager-CRUD) - A full CRUD app using Node.js & MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- Email: vignesh.mv1005@gmail.com
+- LinkedIn: [linkedin.com/in/yourprofile](www.linkedin.com/in/vignesh1005)
+
